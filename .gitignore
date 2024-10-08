@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FreeMarketEvolution/.vs/FreeMarketEvolution
+/FreeMarketEvolution/bin/Debug/net8.0
+/FreeMarketEvolution/obj/Debug/net8.0
+/FreeMarketEvolution/obj
